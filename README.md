@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I´m Marco👋
 - 🔭 I’m currently working on master my body and my mind
 - 🌱 I’m currently learning about Github and skills digitals that I can know 
 - 👯 I’m looking to improve on give more importance to myself
