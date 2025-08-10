@@ -3,6 +3,15 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on master my body and my mind
+- 🌱 I’m currently learning about Github and skills digitals that I can know 
+- 👯 I’m looking to improve on give more importance to myself
+- 🤔 I’m looking to arise in the live 
+- 📫 How to reach me: Marco-Angel
+- ⚡ Fun fact: I have a plate on my left arm
+-->
 <hr>
 <!--
 
