@@ -1,12 +1,6 @@
 <h1 align="center"><b>Hi , I'm Marco Antonio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<a font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer;Computer+Student;Ride +Bike+Always;(5+Stars);Always+learning+new+things"></a>
-</p>
-</p>
-font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer;Computer+Student;Ride +Bike+Always;(5+Stars);Always+learning+new+things"></a>
-</p>
 
-<br>
 
 <!--
 **Marco-Angel/Marco-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
