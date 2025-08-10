@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <<p align="center"> 
   <b>Currently Playing🎶...</b><br><br>
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-</p>
+
 
 Here are some ideas to get you started:
 
