@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a plate on my left arm
 -->
 <hr>
+<img width="890" height="300" alt="image" src="https://github.com/user-attachments/assets/03217080-7a95-4f5a-aca0-e50afc4c76e7" />
+
+
 <!--
 
 Here are some ideas to get you started:
