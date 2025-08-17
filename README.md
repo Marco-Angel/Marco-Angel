@@ -3,6 +3,9 @@
 
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
+<hr>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on master my body and my mind
@@ -22,8 +25,6 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
 
-<hr>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 
